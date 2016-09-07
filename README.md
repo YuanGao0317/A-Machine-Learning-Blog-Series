@@ -8,7 +8,7 @@
 
 <ul>
 <li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/1%20Univariate%20Linear%20Regression.pdf">Univariate Linear Regression</a></li>
-<li>Multivariate Linear Regression</li>
+<li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/2%20Multivariate%20Linear%20Regression.pdf">Multivariate Linear Regression</a></li>
 </ul>
 
 <p>Tools I used:</p>
