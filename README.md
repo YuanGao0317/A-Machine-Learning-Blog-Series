@@ -10,6 +10,9 @@
 <li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/1%20Univariate%20Linear%20Regression.pdf">Univariate Linear Regression</a></li>
 <li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/2%20Multivariate%20Linear%20Regression.pdf">Multivariate Linear Regression</a></li>
 <li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/3%20Normal%20Equation.pdf">Normal Equation</a></li>
+<li>Logistic Regression</li>
+<li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/5%20Neural%20Networks.pdf">Neural Networks</a></li>
+<li><a href="https://github.com/YuanGao0317/A-Machine-Learning-Blog-Series/blob/master/Blog/6%20Backpropagation%20Algorithm.pdf">Backpropagation Algorithm</a></li>
 </ul>
 
 <p>Tools I used:</p>
